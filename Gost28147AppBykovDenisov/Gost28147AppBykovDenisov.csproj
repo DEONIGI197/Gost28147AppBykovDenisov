@@ -49,5 +49,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\deshifrovanie.png" />
+    <Content Include="Images\diagram.png" />
+    <Content Include="Images\error.png" />
+    <Content Include="Images\shifrovanie.png" />
+    <Content Include="Images\vsetesti.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
