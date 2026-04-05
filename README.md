@@ -31,12 +31,12 @@
 
 | Описание | Скриншот |
 |----------|----------|
-| Обозреватель тестов | ![Test Explorer](Images/test1.png) |
-| Шифрование | ![Encrypt](Images/shifrovanie.png) |
-| Дешифрование | ![Decrypt](Images/deshifrovanie.png) |
-| Обработка ошибок | ![Error](Images/error.png) |
-| Все результаты | ![Error](Images/vsetesti.png) |
-| Диаграмма | ![Error](Images/diagram.png) |
+| Обозреватель тестов | (Images/test1.png) |
+| Шифрование | (Images/shifrovanie.png) |
+| Дешифрование | (Images/deshifrovanie.png) |
+| Обработка ошибок | (Images/error.png) |
+| Все результаты | (Images/vsetesti.png) |
+| Диаграмма | (Images/diagram.png) |
 
 ## Средства отладки Visual Studio
 
