@@ -32,7 +32,8 @@
 | Описание | Скриншот |
 |----------|----------|
 | Обозреватель тестов | (test1.png) |
-| Шифрование | (shifrovanie.png) |
+| Шифрование | (Gost28147AppBykovDenisov
+/shifrovanie.png) |
 | Дешифрование | (deshifrovanie.png) |
 | Обработка ошибок | (error.png) |
 | Все результаты | (vsetesti.png) |
