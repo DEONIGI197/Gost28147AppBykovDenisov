@@ -4,7 +4,7 @@ namespace Gost28147AppBykovDenisov
 {
     /// <summary>
     /// Упрощенная реализация одного раунда ГОСТ 28147-89
-    /// </summary>
+    /// <summary>
     public static class GostCipher
     {
         // S-блоки (таблицы замены)
